@@ -7,3 +7,5 @@ for i in content:
         counter += 1
 
 print(counter)
+f.close()
+
